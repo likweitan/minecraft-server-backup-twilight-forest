@@ -1,0 +1,270 @@
+[14:11:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:11:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:11:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:11:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[14:11:52] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_282, running on Windows 10:amd64:10.0, installed at C:\Java\jdk-8.0.282.8-hotspot\jre
+[14:11:52] [main/INFO] [FML]: Searching C:\Users\likwe\Desktop\mineforge\.\mods for mods
+[14:11:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:11:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:11:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:11:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:11:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:11:53] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:11:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:11:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:11:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:11:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:11:53] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[14:11:55] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[14:11:55] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:11:55] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:11:55] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[14:11:55] [Server thread/INFO] [FML]: Searching C:\Users\likwe\Desktop\mineforge\.\mods for mods
+[14:11:56] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[14:11:56] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[14:11:56] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, twilightforest] at CLIENT
+[14:11:56] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, twilightforest] at SERVER
+[14:11:57] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[14:11:57] [Server thread/INFO] [FML]: Found 1454 ObjectHolder annotations
+[14:11:57] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:11:57] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:11:57] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:11:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Just Enough Items.
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[14:11:57] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[14:11:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[14:11:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[14:11:57] [Server thread/INFO] [FML]: Applying holder lookups
+[14:11:57] [Server thread/INFO] [FML]: Holder lookups applied
+[14:11:57] [Server thread/INFO] [FML]: Applying holder lookups
+[14:11:57] [Server thread/INFO] [FML]: Holder lookups applied
+[14:11:58] [Server thread/INFO] [FML]: Applying holder lookups
+[14:11:58] [Server thread/INFO] [FML]: Holder lookups applied
+[14:11:58] [Server thread/INFO] [FML]: Applying holder lookups
+[14:11:58] [Server thread/INFO] [FML]: Holder lookups applied
+[14:11:58] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:11:58] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[14:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[14:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[14:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[14:11:58] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[14:11:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:11:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[14:11:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:11:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:11:58] [Server thread/INFO] [FML]: Applying holder lookups
+[14:11:58] [Server thread/INFO] [FML]: Holder lookups applied
+[14:11:58] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:11:58] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:11:58] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[14:11:58] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[14:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[14:11:58] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[14:11:58] [Server thread/INFO] [FML]: Applying holder lookups
+[14:11:58] [Server thread/INFO] [FML]: Holder lookups applied
+[14:11:58] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@739aa9cc)
+[14:11:59] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 693 advancements
+[14:11:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@739aa9cc)
+[14:11:59] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@739aa9cc)
+[14:11:59] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@739aa9cc)
+[14:11:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[14:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.397s)! For help, type "help" or "?"
+[14:12:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:12:00] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:12:00] [Server thread/INFO] [FML]: Unloading dimension 7
+[14:16:14] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[14:16:14] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,twilightforest@3.11.1021,mcp@9.42,jei@4.16.1.301
+[14:16:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:16:15] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@739aa9cc)
+[14:16:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hou[/124.82.49.93:29039] logged in with entity id 385 at (-162.24519827487757, 34.0, 140.8943613178383)
+[14:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hou joined the game
+[14:56:41] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[14:56:41] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,twilightforest@3.11.1021,mcp@9.42
+[14:56:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:56:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: saitama[/140.112.249.129:52306] logged in with entity id 720045 at (-5.914036041577322, 64.0, 292.7144463009241)
+[14:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama joined the game
+[14:57:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: saitama lost connection: Disconnected
+[14:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama left the game
+[14:57:14] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[14:57:14] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,twilightforest@3.11.1021,mcp@9.42
+[14:57:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:57:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: saitama[/140.112.249.129:52324] logged in with entity id 721171 at (-1.6314710254488904, 63.0, 286.4304797458539)
+[14:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama joined the game
+[14:57:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> oh
+[14:57:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> hi
+[14:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> bug
+[14:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> where
+[14:57:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> house
+[14:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> ya
+[14:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ???
+[14:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> where go
+[14:58:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ???????
+[14:58:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: saitama lost connection: Disconnected
+[14:58:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama left the game
+[14:58:43] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
+[14:58:43] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,twilightforest@3.11.1021,mcp@9.42
+[14:58:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:58:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: saitama[/140.112.249.129:52336] logged in with entity id 723861 at (0.4895026840391559, 63.0, 290.83064228302806)
+[14:58:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama joined the game
+[14:59:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama has made the advancement [Suit Up]
+[15:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> zhushijie huaile
+[15:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> gg
+[15:00:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> why
+[15:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> twilightmeiyenti
+[15:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> play twilight ba
+[15:00:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ??????blcok
+[15:01:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> gg
+[15:01:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> where r u
+[15:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> twilighr
+[15:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> hi
+[15:02:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> where ru
+[15:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> discord
+[15:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> why
+[15:03:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ?????
+[15:03:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> i sore throat
+[15:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> gg
+[15:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ???
+[15:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> no sound
+[15:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama has made the advancement [The Silence of the Forest]
+[15:11:22] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[15:12:02] [Netty Server IO #14/INFO] [FML]: Client protocol version 2
+[15:11:32] [Netty Server IO #10/INFO] [FML]: Client protocol version 2
+[15:12:05] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,twilightforest@3.11.1021,mcp@9.42,journeymap@1.12.2-5.7.1
+[15:12:05] [Netty Server IO #10/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,twilightforest@3.11.1021,mcp@9.42,journeymap@1.12.2-5.7.1
+[15:12:05] [Netty Server IO #14/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,twilightforest@3.11.1021,mcp@9.42,journeymap@1.12.2-5.7.1
+[15:12:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: steelbreach lost connection: Disconnected
+[15:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: steelbreach left the game
+[15:12:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: steelbreach lost connection: Disconnected
+[15:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: steelbreach left the game
+[15:12:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:12:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: steelbreach[/192.168.0.1:62559] logged in with entity id 734400 at (-163.1090294977474, 35.0, 129.7241613514295)
+[15:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: steelbreach joined the game
+[15:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> liwei
+[15:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> be a chicken
+[15:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> ??
+[15:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> i at ur house
+[15:12:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> dont playplay
+[15:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ?????
+[15:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> whre got
+[15:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> snake
+[15:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> gg
+[15:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> yier
+[15:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> now waht
+[15:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ???????
+[15:14:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> do chicken machine
+[15:14:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> liwei chicken farm???
+[15:14:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> ya meh
+[15:14:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> here got chicken
+[15:14:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> i can
+[15:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama has made the advancement [Sweet dreams]
+[15:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> naga
+[15:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> lich?
+[15:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> so other boss unlocked?
+[15:15:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> very lag
+[15:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> ya
+[15:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> like here?
+[15:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> now can fight lich
+[15:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> err
+[15:16:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> here still cannot
+[15:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> swamp not yet
+[15:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> chike n farm
+[15:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> chika farm
+[15:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> build la
+[15:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> ?????
+[15:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> need mor echicken ba
+[15:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> i never do
+[15:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> build a simple one first
+[15:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> sai say u know
+[15:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> collect egg
+[15:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> how ohh
+[15:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> 4 hopper
+[15:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> i kill chicken onl
+[15:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> 2 chest
+[15:17:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> gogo
+[15:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> err
+[15:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> i make hopper
+[15:17:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> err
+[15:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> got iron ma
+[15:19:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> sai
+[15:19:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> i got 4 hopper
+[15:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> bring 4 carpet
+[15:19:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> liwei
+[15:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> ?
+[15:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> liwei
+[15:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> here
+[15:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> good
+[15:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> got chest?
+[15:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> i make
+[15:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> why got small chika
+[15:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> i throw de
+[15:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> lol
+[15:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> hou
+[15:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> ?
+[15:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> can cut fur ma
+[15:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> can
+[15:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> wool ahh?
+[15:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> i want 3
+[15:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> en
+[15:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> can
+[15:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> wool?
+[15:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> want go fight lich?
+[15:24:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: steelbreach moved too quickly! 45.016430685738776,30.0,168.69309629212512
+[15:24:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: steelbreach moved too quickly! -42.13744582186829,-30.0,-168.52960405465655
+[15:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> dunno
+[15:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> u know location?
+[15:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> wa the song...
+[15:24:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> make me cant hear
+[15:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> done
+[15:26:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> veryfast
+[15:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> jsut now 8
+[15:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> err
+[15:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> ohh
+[15:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> but how kill chicken
+[15:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> kill then all die
+[15:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> make more egg first la
+[15:26:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> lava
+[15:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> ohh
+[15:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> this not chicken cooker
+[15:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> breeder
+[15:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> ohh
+[15:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> hou lets play hide and seekj
+[15:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <steelbreach> catch saitama
+[15:28:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> gg
+[15:28:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> bye
+[15:28:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: steelbreach lost connection: Disconnected
+[15:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: steelbreach left the game
+[15:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> go fight lich la
+[15:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> sangat lag
+[15:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> i ok leh
+[15:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> wat to do now
+[15:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> wat to do
+[15:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> a house
+[15:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <saitama> a base
+[15:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[15:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] u 2 go fight la
+[15:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> lol
+[15:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /say <message ...>
+[15:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] i want do homework
+[15:33:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hou> gg
+[15:33:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: saitama lost connection: Disconnected
+[15:33:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: saitama left the game
+[15:33:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] gg
+[15:54:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hou lost connection: Disconnected
+[15:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hou left the game
+[15:54:45] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:59:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:59:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:59:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:59:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:59:01] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:59:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:59:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:59:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
